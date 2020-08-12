@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1987183628",
+    "firebase_url": "https://cosapp-85219.firebaseio.com",
+    "project_id": "cosapp-85219",
+    "storage_bucket": "cosapp-85219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1987183628:android:7bf093d19b8b4d519d9a29",
+        "android_client_info": {
+          "package_name": "com.cos.cosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1987183628-0qabvt2p402ao47fivbt3jaajhr8ipuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cos.cosapp",
+            "certificate_hash": "d789b824cc0f393bee6250346b033d09ee5dbc47"
+          }
+        },
+        {
+          "client_id": "1987183628-qbajkb7443ofat2g0qkdupk9072srtbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuzJ5mTMH1sTO6byIl8DUx1dQxTflbn24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1987183628-qbajkb7443ofat2g0qkdupk9072srtbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
